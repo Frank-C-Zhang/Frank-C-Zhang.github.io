@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[4],{VN7O:function(e,n,t){"use strict";t.r(n);var r=t("q1tI"),a=t.n(r),p=t("MuoO");class c extends r["Component"]{render(){return a.a.createElement("div",null,"1234")}}n["default"]=Object(p["connect"])(e=>{var n=e.app;return{app:n}})(c)}}]);
